@@ -8,8 +8,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '🎉 欢迎来到我的博客 🐥🤡胎煤 🎉', url: 'https://nblogs.qbobo.eu.org' },
-    { title: 'Ctrl+D收藏本站不迷路', url: 'https://nblogs.qbobo.eu.org' }
+    { title: '🎉 欢迎来到我的博客 🐥🤡胎煤 🎉', url: 'https://nblogs.ro22.eu.org' },
+    { title: 'Ctrl+D收藏本站不迷路', url: 'https://nblogs.ro22.eu.org' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -20,7 +20,7 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '👑皇室珍藏',
   HEO_HERO_TITLE_2: '大内密档📕',
-  HEO_HERO_TITLE_3: '👶Mystery Q',
+  HEO_HERO_TITLE_3: 'Li GOd',
   HEO_HERO_TITLE_4: '永乐大典寻找中······',
   HEO_HERO_TITLE_5: '四库全书翻新上线',
   HEO_HERO_TITLE_LINK: ' ',
@@ -39,7 +39,7 @@ const CONFIG = {
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
-    '你好！我是Mystery Q',
+    '你好！我是Li God',
     '🔍 真聪明！！！！',
     '🤝 被你发现了！！',
     '🏃 多点几下有惊喜~',
@@ -120,7 +120,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '加入聊天吹水群讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入群聊',
-  HEO_SOCIAL_CARD_URL: 'https://nblogs.qbobo.eu.org/join-us',
+  HEO_SOCIAL_CARD_URL: 'https://nblogs.ro22.eu.org/join-us',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
